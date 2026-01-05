@@ -1,0 +1,21 @@
+export const qyteteShqiptare = [
+  { id: "tirana", emri: "Tirana", shtet: "Albania", gjeresi: 41.3275, gjatesi: 19.8187 },
+  { id: "durrres", emri: "Durres", shtet: "Albania", gjeresi: 41.3231, gjatesi: 19.4414 },
+  { id: "vlore", emri: "Vlora", shtet: "Albania", gjeresi: 40.4667, gjatesi: 19.4894 },
+  { id: "shkoder", emri: "Shkodra", shtet: "Albania", gjeresi: 42.0687, gjatesi: 19.5126 },
+  { id: "elbasan", emri: "Elbasan", shtet: "Albania", gjeresi: 41.1128, gjatesi: 20.0828 },
+  { id: "fier", emri: "Fier", shtet: "Albania", gjeresi: 40.7167, gjatesi: 19.5667 },
+  { id: "korce", emri: "Korce", shtet: "Albania", gjeresi: 40.6167, gjatesi: 20.7833 },
+  { id: "berat", emri: "Berat", shtet: "Albania", gjeresi: 40.7058, gjatesi: 19.9522 },
+  { id: "lushnje", emri: "Lushnja", shtet: "Albania", gjeresi: 40.9419, gjatesi: 19.7050 },
+  { id: "sarande", emri: "Saranda", shtet: "Albania", gjeresi: 39.8756, gjatesi: 20.0053 },
+  { id: "pogradec", emri: "Pogradec", shtet: "Albania", gjeresi: 40.9000, gjatesi: 20.6583 },
+  { id: "kukes", emri: "Kukes", shtet: "Albania", gjeresi: 42.0769, gjatesi: 20.4219 },
+  { id: "lezhe", emri: "Lezhe", shtet: "Albania", gjeresi: 41.7861, gjatesi: 19.6464 },
+  { id: "gjirokaster", emri: "Gjirokaster", shtet: "Albania", gjeresi: 40.0750, gjatesi: 20.1389 },
+  { id: "peshkopi", emri: "Peshkopi", shtet: "Albania", gjeresi: 41.6833, gjatesi: 20.4333 },
+  { id: "kruje", emri: "Kruje", shtet: "Albania", gjeresi: 41.5092, gjatesi: 19.7928 },
+  { id: "kavaje", emri: "Kavaje", shtet: "Albania", gjeresi: 41.1856, gjatesi: 19.5561 },
+  { id: "mallakaster", emri: "Mallakastra", shtet: "Albania", gjeresi: 40.5333, gjatesi: 19.7167 },
+  { id: "tepelene", emri: "Tepelena", shtet: "Albania", gjeresi: 40.2956, gjatesi: 20.0186 }
+];
